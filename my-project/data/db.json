@@ -1,0 +1,25 @@
+{
+    "blogs":[
+        
+        {
+        "title":"software development",
+        "author":"John Doe",
+        "body":"contrary to popular belief, lorem ipsum is not simply a random text.it has roots",
+        "id":"5"
+        },
+        {
+        "title":"android development",
+        "author":"Mary Doe",
+        "body":"contrary to popular belief, lorem ipsum is not simply a random text.it has roots",
+        "id":"6"   
+        },
+
+        {
+        "title":"Web development",
+        "author":"Kelvin Doe",
+        "body":"contrary to popular belief, lorem ipsum is not simply a random text.it has roots",
+        "id":"7"
+        }
+    ]
+}
+// to read whats in here we need to run the json server
